@@ -1,0 +1,120 @@
+
+body{
+    margin: 0;
+    color:#40514e;
+    text-align: center;
+   font-family: "Merriweather", serif;
+
+   
+    
+}
+hr{
+    border: dotted #48bcbc 6px;
+    width:4%;
+    border-bottom: none;
+    margin:0 auto 0 auto;
+
+}
+
+h1{
+    color:#11999E;
+    font-family: "Sacramento", cursive;
+    font-size: 70px;
+    margin-top: 50px auto 0 auto;
+}
+h2{
+    color:#11999E;
+    font-family: "Merriweather", serif;
+    font-size: 2.5 rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3{
+    color:#11999E;
+    font-family: "Merriweather", serif;
+}
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+   line-height: 2;
+   width: 50%;
+   text-align: left;
+    
+}
+.top-cloud{
+    height: 60px;
+    width: 200px;
+    position: absolute;
+    right: 300px;
+    
+    top: 50px;
+    
+}
+.bottom-cloud{
+    height: 60px;
+    width: 200px;
+    position: absolute;
+    left: 300px;
+    bottom: 250px;
+    
+    
+}
+.middle-container{
+    margin: 40px 0 50px 0;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    margin: auto;
+    padding-top: 30px;
+    text-decoration: none;
+    color:#e4f9f5;
+    height: 100px;
+  
+}
+.bottom-container a{
+    text-decoration: none;
+    margin-left: 20px;
+    color:#11999e;
+}
+a:hover{
+    color: white;
+}
+.idea{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+    
+}
+.skillr{
+    width:25%;
+    margin-left: 30px;
+    float: right;
+}
+.btn{
+    margin-bottom: 20px;
+    border-radius: 8px;
+    height:30px;
+    background-color:#66BFBF;
+    
+}
+.btn a{
+    text-decoration: none;
+    color: #000000;
+    padding: 5px;
+}
+.btn:hover{
+    background-color: aqua;
+}
+.contact-me{
+   width: 50%;
+   margin: auto;
+
+}
+.profile-pic{
+    width: 15%;
+    border-radius: 100%;
+}
